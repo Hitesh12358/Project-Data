@@ -8,7 +8,7 @@ Andorra,AD,AND,020,ISO 3166-2:AD,Europe,Southern Europe,"",150,039,""
 Angola,AO,AGO,024,ISO 3166-2:AO,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
 Anguilla,AI,AIA,660,ISO 3166-2:AI,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 Antarctica,AQ,ATA,010,ISO 3166-2:AQ,"","","","","",""
-Antigua and Barbuda,AG,ATG,028,ISO 3166-2:AG,Americas,Latin America and the Caribbean,Caribbean,019,419,029
+Antigua  Barbuda,AG,ATG,028,ISO 3166-2:AG,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 Argentina,AR,ARG,032,ISO 3166-2:AR,Americas,Latin America and the Caribbean,South America,019,419,005
 Armenia,AM,ARM,051,ISO 3166-2:AM,Asia,Western Asia,"",142,145,""
 Aruba,AW,ABW,533,ISO 3166-2:AW,Americas,Latin America and the Caribbean,Caribbean,019,419,029
@@ -56,7 +56,7 @@ Costa Rica,CR,CRI,188,ISO 3166-2:CR,Americas,Latin America and the Caribbean,Cen
 Cte dIvoire,CI,CIV,384,ISO 3166-2:CI,Africa,Sub-Saharan Africa,Western Africa,002,202,011
 Croatia,HR,HRV,191,ISO 3166-2:HR,Europe,Southern Europe,"",150,039,""
 Cuba,CU,CUB,192,ISO 3166-2:CU,Americas,Latin America and the Caribbean,Caribbean,019,419,029
-Curaçao,CW,CUW,531,ISO 3166-2:CW,Americas,Latin America and the Caribbean,Caribbean,019,419,029
+Curaao,CW,CUW,531,ISO 3166-2:CW,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 Cyprus,CY,CYP,196,ISO 3166-2:CY,Asia,Western Asia,"",142,145,""
 Czech Republic,CZ,CZE,203,ISO 3166-2:CZ,Europe,Eastern Europe,"",150,151,""
 Denmark,DK,DNK,208,ISO 3166-2:DK,Europe,Northern Europe,"",150,154,""
@@ -71,7 +71,7 @@ Eritrea,ER,ERI,232,ISO 3166-2:ER,Africa,Sub-Saharan Africa,Eastern Africa,002,20
 Estonia,EE,EST,233,ISO 3166-2:EE,Europe,Northern Europe,"",150,154,""
 Eswatini,SZ,SWZ,748,ISO 3166-2:SZ,Africa,Sub-Saharan Africa,Southern Africa,002,202,018
 Ethiopia,ET,ETH,231,ISO 3166-2:ET,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014
-Falkland Islands (Malvinas),FK,FLK,238,ISO 3166-2:FK,Americas,Latin America and the Caribbean,South America,019,419,005
+Falkland Islands Islas Malvinas,FK,FLK,238,ISO 3166-2:FK,Americas,Latin America and the Caribbean,South America,019,419,005
 Faroe Islands,FO,FRO,234,ISO 3166-2:FO,Europe,Northern Europe,"",150,154,""
 Fiji,FJ,FJI,242,ISO 3166-2:FJ,Oceania,Melanesia,"",009,054,""
 Finland,FI,FIN,246,ISO 3166-2:FI,Europe,Northern Europe,"",150,154,""
@@ -186,11 +186,11 @@ Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,"",150,151,""
 Rwanda,RW,RWA,646,ISO 3166-2:RW,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014
 Saint Barthélemy,BL,BLM,652,ISO 3166-2:BL,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 "Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654,ISO 3166-2:SH,Africa,Sub-Saharan Africa,Western Africa,002,202,011
-Saint Kitts and Nevis,KN,KNA,659,ISO 3166-2:KN,Americas,Latin America and the Caribbean,Caribbean,019,419,029
+St Kitts  Nevis,KN,KNA,659,ISO 3166-2:KN,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 Saint Lucia,LC,LCA,662,ISO 3166-2:LC,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 Saint Martin (French part),MF,MAF,663,ISO 3166-2:MF,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 St Pierre  Miquelon,PM,SPM,666,ISO 3166-2:PM,Americas,Northern America,"",019,021,""
-Saint Vincent and the Grenadines,VC,VCT,670,ISO 3166-2:VC,Americas,Latin America and the Caribbean,Caribbean,019,419,029
+St Vincent  Grenadines,VC,VCT,670,ISO 3166-2:VC,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 Samoa,WS,WSM,882,ISO 3166-2:WS,Oceania,Polynesia,"",009,061,""
 San Marino,SM,SMR,674,ISO 3166-2:SM,Europe,Southern Europe,"",150,039,""
 Sao Tome and Principe,ST,STP,678,ISO 3166-2:ST,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
@@ -243,7 +243,7 @@ Venezuela,VE,VEN,862,ISO 3166-2:VE,Americas,Latin America and the Caribbean,Sout
 Vietnam,VN,VNM,704,ISO 3166-2:VN,Asia,South-eastern Asia,"",142,035,""
 British Virgin Islands,VG,VGB,092,ISO 3166-2:VG,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 US Virgin Islands,VI,VIR,850,ISO 3166-2:VI,Americas,Latin America and the Caribbean,Caribbean,019,419,029
-Wallis and Futuna,WF,WLF,876,ISO 3166-2:WF,Oceania,Polynesia,"",009,061,""
+Wallis  Futuna,WF,WLF,876,ISO 3166-2:WF,Oceania,Polynesia,"",009,061,""
 Western Sahara,EH,ESH,732,ISO 3166-2:EH,Africa,Northern Africa,"",002,015,""
 Yemen,YE,YEM,887,ISO 3166-2:YE,Asia,Western Asia,"",142,145,""
 Zambia,ZM,ZMB,894,ISO 3166-2:ZM,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014
